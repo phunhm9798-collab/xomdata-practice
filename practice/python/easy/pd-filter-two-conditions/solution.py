@@ -1,0 +1,11 @@
+# Xom Data · Large orders from one sales channel
+# Problem: https://xomdata.com/practice/pd-filter-two-conditions
+# Solved: 2026-08-18
+
+import pandas as pd
+
+
+def channel_orders(orders, channel, min_amount):
+    # Return the rows of the given channel whose amount is at least min_amount.
+    orders = orders[(orders['channel'] == channel) &(orders['amount'] >= min_amount)]
+    return orders
