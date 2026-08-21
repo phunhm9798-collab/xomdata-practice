@@ -77,5 +77,12 @@
   "practice/python/easy/pd-filter-two-conditions/solution.py": "2d8b016db173533c5c023652ab121705965e166dbd5b512fac60c563cf1d548f",
   "practice/python/easy/pd-drop-column/solution.py": "24147045af4fbb708162055faac9f1d610376ccf243a69231abd383cc4811d70",
   "practice/python/easy/pd-drop-missing-rows/solution.py": "95eeb2bd77c6803bf78e17e12db7e491e740ddff4466dd5a16f8d668255b06a4",
-  "practice/sql/medium/medium-datefunction-045/solution.sql": "4c4a7fd0e9d8045f23603e8fecdbe1e39be340e1bcafe4e0e2098b36e2901098"
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "4c4a7fd0e9d8045f23603e8fecdbe1e39be340e1bcafe4e0e2098b36e2901098",
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "0b41bd3b796cb39b6fab70362013efa4c45fc4b8b083a3ff904cc74efcf3b6e4",
+  "practice/sql/medium/medium-leftjoin-096/solution.sql": "45560ea59295e03e06bbb8f12969d3f19846f6a2fe3e1ce964d05edb0af795bd",
+  "practice/python/easy/py-total-revenue-dict/solution.py": "f3641e7750423897dc56327f0a4957ccb1c11ecf1bbd9db04fe6c7240f84a50e",
+  "practice/python/easy/pd-filter-isin/solution.py": "e2ca797e976fddb9926539ed50b3b06b22ac6ed0aaceac62d99fc2c55401ca1a",
+  "practice/python/easy/pd-count-matching/solution.py": "c25264808fcc8499b870a091ebf203f48d40eb3b5fe74b1c7d1248ec734941ee",
+  "practice/python/easy/pd-fill-missing/solution.py": "ae4ffdb3c0628858376f9a29e65128ff3fc42e497417e7163d9e037d5011d5c2",
+  "practice/python/easy/pd-missing-count/solution.py": "61176d3b11917d5c34e34dbdd1a51e5a8e42725041afc17a0ef513262603a3c6"
 }
