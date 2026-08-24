@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**86** problems solved on [Xom Data](https://xomdata.com/practice).
+**104** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 22 | 0 | 0 | 0 | 22 |
-| SQL | 53 | 8 | 1 | 2 | 64 |
+| Python | 28 | 0 | 0 | 0 | 28 |
+| SQL | 61 | 12 | 1 | 2 | 76 |
 
 **Recently solved**
 
-- [pd-missing-count](https://xomdata.com/practice/pd-missing-count) · Easy · 2026-08-21
-- [pd-fill-missing](https://xomdata.com/practice/pd-fill-missing) · Easy · 2026-08-21
-- [pd-count-matching](https://xomdata.com/practice/pd-count-matching) · Easy · 2026-08-21
-- [pd-filter-isin](https://xomdata.com/practice/pd-filter-isin) · Easy · 2026-08-21
-- [py-total-revenue-dict](https://xomdata.com/practice/py-total-revenue-dict) · Easy · 2026-08-21
-- [medium-leftjoin-096](https://xomdata.com/practice/medium-leftjoin-096) · Medium · 2026-08-20
-- [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-08-20
-- [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-08-18
-- [pd-drop-missing-rows](https://xomdata.com/practice/pd-drop-missing-rows) · Easy · 2026-08-18
-- [pd-drop-column](https://xomdata.com/practice/pd-drop-column) · Easy · 2026-08-18
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-24
+- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-08-24
+- [easy-join-005](https://xomdata.com/practice/easy-join-005) · Easy · 2026-08-24
+- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-08-24
+- [easy-like-004](https://xomdata.com/practice/easy-like-004) · Easy · 2026-08-24
+- [easy-like-003](https://xomdata.com/practice/easy-like-003) · Easy · 2026-08-24
+- [easy-like-002](https://xomdata.com/practice/easy-like-002) · Easy · 2026-08-24
+- [easy-length-001](https://xomdata.com/practice/easy-length-001) · Easy · 2026-08-24
+- [easy-leftjoin-003](https://xomdata.com/practice/easy-leftjoin-003) · Easy · 2026-08-24
+- [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-08-24
 
-_Synced 86 solutions · last update 2026-08-21_
+_Synced 104 solutions · last update 2026-08-24_
 
 <!-- xomdata:stats:end -->
 
