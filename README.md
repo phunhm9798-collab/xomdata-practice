@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**108** problems solved on [Xom Data](https://xomdata.com/practice).
+**125** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 28 | 0 | 0 | 0 | 28 |
-| SQL | 61 | 16 | 1 | 2 | 80 |
+| Python | 28 | 0 | 0 | 1 | 29 |
+| SQL | 62 | 31 | 1 | 2 | 96 |
 
 **Recently solved**
 
-- [medium-having-187](https://xomdata.com/practice/medium-having-187) · Medium · 2026-08-24
-- [medium-having-162](https://xomdata.com/practice/medium-having-162) · Medium · 2026-08-24
-- [medium-having-128](https://xomdata.com/practice/medium-having-128) · Medium · 2026-08-24
-- [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-08-24
-- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-24
-- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-08-24
-- [easy-join-005](https://xomdata.com/practice/easy-join-005) · Easy · 2026-08-24
-- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-08-24
-- [easy-like-004](https://xomdata.com/practice/easy-like-004) · Easy · 2026-08-24
-- [easy-like-003](https://xomdata.com/practice/easy-like-003) · Easy · 2026-08-24
+- [medium-topn-003](https://xomdata.com/practice/medium-topn-003) · Medium · 2026-08-27
+- [medium-topn-002](https://xomdata.com/practice/medium-topn-002) · Medium · 2026-08-27
+- [medium-topn-001](https://xomdata.com/practice/medium-topn-001) · Medium · 2026-08-27
+- [medium-runtotal-003](https://xomdata.com/practice/medium-runtotal-003) · Medium · 2026-08-27
+- [medium-runtotal-002](https://xomdata.com/practice/medium-runtotal-002) · Medium · 2026-08-27
+- [medium-runtotal-001](https://xomdata.com/practice/medium-runtotal-001) · Medium · 2026-08-27
+- [medium-rownum-003](https://xomdata.com/practice/medium-rownum-003) · Medium · 2026-08-27
+- [medium-rownum-002](https://xomdata.com/practice/medium-rownum-002) · Medium · 2026-08-27
+- [medium-rownum-001](https://xomdata.com/practice/medium-rownum-001) · Medium · 2026-08-27
+- [medium-rolling-002](https://xomdata.com/practice/medium-rolling-002) · Medium · 2026-08-27
 
-_Synced 108 solutions · last update 2026-08-24_
+_Synced 125 solutions · last update 2026-08-27_
 
 <!-- xomdata:stats:end -->
 

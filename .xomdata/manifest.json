@@ -106,5 +106,22 @@
   "practice/sql/medium/medium-having-019/solution.sql": "557f4763ae8ac23d049fe87ac4d806d08739c573e7fa5199a75a073be2dc1c45",
   "practice/sql/medium/medium-having-128/solution.sql": "4c395f7e367082d1c28a808c4d69a718951d24170ea83f90f86cc629dc9c06f3",
   "practice/sql/medium/medium-having-162/solution.sql": "6d164b1c58b521baf9bb24e483a9d1fbb3d030c77634be826d57e9640c4898f7",
-  "practice/sql/medium/medium-having-187/solution.sql": "43daefb57de82ccd062d3185f1731ea933e8aa55875656a750af81f1357d023d"
+  "practice/sql/medium/medium-having-187/solution.sql": "43daefb57de82ccd062d3185f1731ea933e8aa55875656a750af81f1357d023d",
+  "practice/python/nightmare/py-search-rotated/solution.py": "67c8fa975e30391c693e5d80004068caa71d89008ce10a9896fab2b8f59b63e1",
+  "practice/sql/easy/easy-andor-001/solution.sql": "dfeb234bd56d1a1159b6c2537009ed30dba4c96b05a1600c8fb06ed0af504d64",
+  "practice/sql/medium/medium-rank-001/solution.sql": "b0891625bf8d429dc427a060b9c82f267717fd5c1f8750561787974883f3ad02",
+  "practice/sql/medium/medium-rank-002/solution.sql": "6eee303a1a394bad0f5e576b837cb0dd09ea1d850fef821056f23d6735f3131a",
+  "practice/sql/medium/medium-rank-003/solution.sql": "aa78c520b22170faad069c0d842a40820261f8ca9ae438193431324dafb37b75",
+  "practice/sql/medium/medium-rank-004/solution.sql": "235caf3df34dfe4c75851d53c0cf95831ce08513a3f3e95f8be806428ac7f896",
+  "practice/sql/medium/medium-rolling-001/solution.sql": "719d9bc3a7ecbf16d6c5b9dea043e528edf7077967afc302dbc9695a2d0c0e9b",
+  "practice/sql/medium/medium-rolling-002/solution.sql": "10c43f70a59d58228e07d13f7b37680339995d0acb18e9d2b23004b592d62b0b",
+  "practice/sql/medium/medium-rownum-001/solution.sql": "c334243bb1c7665465c558d993e64ed32dc9d1600ceb5fc68f7bb16d779b74b3",
+  "practice/sql/medium/medium-rownum-002/solution.sql": "8062fc788012ceff99499008d708211a91661c9f0cc4b23f6197d70c6e3ff5b9",
+  "practice/sql/medium/medium-rownum-003/solution.sql": "7432ecd61a4bac48f5e4d6234db2ff31b8b4ac6b038ebf6d73cc2be1eb709b10",
+  "practice/sql/medium/medium-runtotal-001/solution.sql": "d8c5e252b28fea5236b2f5f4e867235b5750f7eb43ef60ef77af32fcd9ee4ac2",
+  "practice/sql/medium/medium-runtotal-002/solution.sql": "5f2fc522ea72bd738d34bf24effb68562d94d81fa69ba54444f4282622f45053",
+  "practice/sql/medium/medium-runtotal-003/solution.sql": "59d21de164f00aef4e620e85198ca9e22259c81dd44cff6563f00c4d2caddd09",
+  "practice/sql/medium/medium-topn-001/solution.sql": "e4c259d9be80f3c61db5c4e4d32649c27841e509c225987c6bb863cd6283a359",
+  "practice/sql/medium/medium-topn-002/solution.sql": "21c04d80c1ce31337ac6dac4282971162486ca154a8eaf27f5896813c5d085d6",
+  "practice/sql/medium/medium-topn-003/solution.sql": "1df06130458cb660ceee031a4c190003475b9ad813fdee97325c8045e44230a9"
 }
