@@ -1,0 +1,10 @@
+-- Xom Data · Each expense's share of the fund
+-- Problem: https://xomdata.com/practice/medium-winagg-006
+-- Solved: 2026-08-30
+
+-- Viết SQL của bạn ở đây
+
+SELECT expense_name, amount,
+round(amount * 100.0 / sum(amount) over(), 2) as pct_of_total
+from fund_expenses
+order by amount desc, expense_name;
